@@ -23,8 +23,6 @@ export function Countdown () {
             }, 1000)
         }
     }, [active, time]) // coloca o time pra ele nao usar uma vez e sim varias
-
-    
     
     return (
         <div>
