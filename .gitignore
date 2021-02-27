@@ -6,9 +6,9 @@
 .pnp.js
 
 # testing
-/coverage
+/coverage 
 
-# next.js
+# next.js 
 /.next/
 /out/
 
